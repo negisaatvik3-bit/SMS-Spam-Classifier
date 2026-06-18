@@ -11,6 +11,16 @@ A Machine Learning-based SMS Spam Detection web application that classifies mess
 - Suspicious Keyword Detection
 - Interactive Streamlit Web Interface
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](images/sms_spam_classifier_homepage.png)
+
+### Spam Detection Example
+
+![Spam Detection](images/spam_detection.png)
+
 ## 🛠️ Tech Stack
 
 - Python
